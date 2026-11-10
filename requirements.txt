@@ -1,0 +1,30 @@
+
+# Financial Fraud Detection Using Machine Learning
+
+# Core Data Handling
+numpy
+pandas
+scipy
+
+# Automated Data Profiling
+ydata-profiling
+
+# Machine Learning
+scikit-learn
+imbalanced-learn
+xgboost
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Model Saving and Loading
+joblib
+
+# Streamlit Application
+streamlit
+
+# Jupyter Notebook
+jupyter
+ipykernel
+ipython

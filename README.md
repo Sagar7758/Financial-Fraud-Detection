@@ -193,13 +193,14 @@ Financial_Fraud_Detection/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Sagar7758/Financial-Fraud-Detection.git
+
 ```
 
 ### Step 2: Open the Project Directory
 
 ```bash
-cd Financial_Fraud_Detection
+cd Financial-Fraud-Detection
 ```
 
 ### Step 3: Create a Virtual Environment
